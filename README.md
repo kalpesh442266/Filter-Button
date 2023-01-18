@@ -27,7 +27,7 @@ yarn add filter-button
 ```
 
 ## Configuration 
-#### create relations fo filter button to work
+#### create relations first for filter button to work
 if relation is many to many then add boolean ```manyToMany:true``` in configuration
 
 Add webpack.config.js file into src/admin and paste this content there.
