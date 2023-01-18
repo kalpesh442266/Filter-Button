@@ -26,6 +26,13 @@ npm i filter-button
 yarn add filter-button
 ```
 
+Now we need to register plugin so strapi can use it. In order to do that we need to create (if not already created) ./config/plugins.js file and add entry to it.
+```bash
+    'filter-button': {
+        enabled: true,
+    }
+```
+
 ## Configuration 
 #### create relations first for filter button to work
 if relation is many to many then add boolean ```manyToMany:true``` in configuration
