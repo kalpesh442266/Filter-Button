@@ -1,10 +1,11 @@
 {
   "name": "filter-button",
   "version": "0.2.0",
-  "description": "This is the description of the plugin.",
+  "description": "custom filter button plugin for strapi",
+  "private": false,
   "strapi": {
     "name": "filter-button",
-    "description": "Description of Filter Button plugin",
+    "description": "Custom filter button plugin for strapi",
     "kind": "plugin",
     "displayName": "Filter Button"
   },
