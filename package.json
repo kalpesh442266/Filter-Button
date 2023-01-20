@@ -1,6 +1,6 @@
 {
   "name": "filter-button",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "filter-button",
@@ -8,6 +8,7 @@
     "kind": "plugin",
     "displayName": "Filter Button"
   },
+  "keywords": ["filter-button", "strapi custom field","strapi filter button field"],
   "dependencies": {},
   "author": {
     "name": "A Strapi developer"
