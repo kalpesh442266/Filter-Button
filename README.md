@@ -90,13 +90,13 @@ module.exports = (config, webpack) => {
 #### For NPM:
 
 ```bash
-npm run bild
+npm run build
 ```
 
 #### For Yarn:
 
 ```bash
-yarn bild
+yarn build
 ```
 
 ## How To Use
