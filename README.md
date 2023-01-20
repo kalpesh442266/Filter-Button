@@ -11,9 +11,6 @@ Custom fields are supported since Strapi 4.4+ and offer powerful API to create h
 
 This plugin lets you view filtered data according to your configurations.
 
-
-Installation
-
 ## Installation
 
 To install this plugin, you need to add an NPM dependency to your Strapi application:
@@ -79,7 +76,7 @@ module.exports = (config, webpack) => {
 
 ```
 
-### Then Run build: 
+#### Then run build: 
 #### For NPM:
 ```bash
 npm run bild
