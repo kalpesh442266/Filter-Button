@@ -1,6 +1,6 @@
 {
   "name": "filter-button",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": false,
   "description": "Custom filter button plugin for strapi",
   "strapi": {
@@ -20,11 +20,14 @@
   ],
   "dependencies": {},
   "author": {
-    "name": "A Strapi developer"
+    "name":"Kalpesh Rane"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.4.0"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Kalpesh Rane"
     }
   ],
   "engines": {
